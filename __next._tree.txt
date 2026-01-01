@@ -1,0 +1,4 @@
+:HL["/website_al_manshurah_publish/_next/static/chunks/94029b13bc4d6bb3.css","style"]
+:HC["/",""]
+:HL["/website_al_manshurah_publish/_next/static/chunks/58c0eb7037e5300c.css","style"]
+0:{"buildId":"6loAauFhzOP95GAst7ncm","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
