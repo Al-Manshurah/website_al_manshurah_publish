@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[33780,["/website_al_manshurah_publish/_next/static/chunks/fec5ea6183d0e55b.js","/website_al_manshurah_publish/_next/static/chunks/3b60e5197848a126.js"],"ClientPageRoot"]
+3:I[93180,["/website_al_manshurah_publish/_next/static/chunks/0a2f4fda84baac72.js","/website_al_manshurah_publish/_next/static/chunks/ef422a29d7c2bf50.js","/website_al_manshurah_publish/_next/static/chunks/f7070c9fd552ef78.js"],"default"]
+6:I[98427,["/website_al_manshurah_publish/_next/static/chunks/fec5ea6183d0e55b.js","/website_al_manshurah_publish/_next/static/chunks/3b60e5197848a126.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"BBVA3hoD_fXQrna-N4Vw5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/website_al_manshurah_publish/_next/static/chunks/ef422a29d7c2bf50.js","async":true}],["$","script","script-1",{"src":"/website_al_manshurah_publish/_next/static/chunks/f7070c9fd552ef78.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
